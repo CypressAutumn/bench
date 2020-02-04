@@ -212,21 +212,3 @@ You can also run the parts of the bench selectively.
 
 `bench update --requirements` will only update dependencies (python packages) for the apps installed
 
-Guides
-=======
-- [Configuring HTTPS](https://frappe.io/docs/user/en/bench/guides/configuring-https.html)
-- [Using Let's Encrypt to setup HTTPS](https://frappe.io/docs/user/en/bench/guides/lets-encrypt-ssl-setup.html)
-- [Diagnosing the Scheduler](https://frappe.io/docs/user/en/bench/guides/diagnosing-the-scheduler.html)
-- [Change Hostname](https://frappe.io/docs/user/en/bench/guides/adding-custom-domains)
-- [Manual Setup](https://frappe.io/docs/user/en/bench/guides/manual-setup.html)
-- [Setup Production](https://frappe.io/docs/user/en/bench/guides/setup-production.html)
-- [Setup Multitenancy](https://frappe.io/docs/user/en/bench/guides/setup-multitenancy.html)
-- [Stopping Production](https://github.com/frappe/bench/wiki/Stopping-Production-and-starting-Development)
-
-
-Resources
-=======
-
-- [Background Services](https://frappe.io/docs/user/en/bench/resources/background-services.html)
-- [Bench Commands Cheat Sheet](https://frappe.io/docs/user/en/bench/resources/bench-commands-cheatsheet.html)
-- [Bench Procfile](https://frappe.io/docs/user/en/bench/resources/bench-procfile.html)
