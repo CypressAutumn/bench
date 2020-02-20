@@ -212,3 +212,6 @@ You can also run the parts of the bench selectively.
 
 `bench update --requirements` will only update dependencies (python packages) for the apps installed
 
+sudo python install.py --production --version 11 --python python3  --repo-url https://github.com/CypressAutumn/bench  --frappe-repo-url https://github.com/CypressAutumn/frappe  --erpnext-repo-url https://github.com/CypressAutumn/erpnext  --bench-name frappe-bench
+
+
